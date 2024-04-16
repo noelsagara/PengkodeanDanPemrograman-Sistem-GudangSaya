@@ -1,11 +1,11 @@
-# Web-Inventory-Barang
+# Web-Gudang Saya
 Inventory Barang Berbasis Web
 ___________________________________________________________________________________________________________________________________________________________________
 
-<strong>Tentang Website Inventory</strong>
+<strong>Tentang Website Gudang Saya</strong>
 
 
-Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
+Website Gudang Saya adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
 
 <strong>Fitur website</strong>
   1. Fitur Login
@@ -75,10 +75,13 @@ BEFORE ![Homepage](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem
 AFTER ![image](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem-GudangSaya/assets/166829920/78241a4e-7a1b-41c3-bafd-4a97d4d4427c)
 
 
-![Homepage]
+![Homepage] ADMIN
 BEFORE ![WhatsApp Image 2024-04-17 at 01 19 49_c8d42e2b](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem-GudangSaya/assets/166829920/48569574-4cc7-42eb-a10c-d727024c1131)
 AFTER ![image](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem-GudangSaya/assets/166829920/9bad23e1-0e2c-4fd0-bf0f-8f43d9f69898)
 
+![Homepage] PETUGAS
+BEFORE ![WhatsApp Image 2024-04-16 at 23 42 54_a14d5d85](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem-GudangSaya/assets/166829920/67b3d9a2-4fe4-4b14-937f-2643bc925f92)
+AFTER ![image](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem-GudangSaya/assets/166829920/65991075-fdd9-48a2-a505-796132239eb8)
 
 ![Profil]
 BEFORE ![WhatsApp Image 2024-04-17 at 01 19 48_5610e90c](https://github.com/noelsagara/PengkodeanDanPemrograman-Sistem-GudangSaya/assets/166829920/7ecfec45-d77d-45a6-90a0-39d358d7c015)
